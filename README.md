@@ -31,8 +31,8 @@ Users should be able to:
 ![](./screenshot.png)
 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/yosefHesham/product-card)
+- Live Site URL: [Add live site URL here](https://yosefhesham.github.io/product-card/)
 
 
 ### Built with
