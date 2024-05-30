@@ -109,7 +109,7 @@ body {
   }
   .desktop {
     display: block;
-    height: 450px !important;
+    height: 430px !important;
     border-bottom-left-radius: 10px;
     border-top-left-radius: 10px;
   }
@@ -183,6 +183,6 @@ body {
 
 @media (min-width: 1200px) {
   .card {
-    width: 45%;
+    width: 42%;
   }
 }
