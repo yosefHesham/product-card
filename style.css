@@ -109,7 +109,7 @@ body {
   }
   .desktop {
     display: block;
-    height: 400px !important;
+    height: 450px !important;
     border-bottom-left-radius: 10px;
     border-top-left-radius: 10px;
   }
@@ -118,6 +118,15 @@ body {
     display: flex;
     width: 90%;
     margin-bottom: 10px;
+    justify-content: space-evenly;
+    gap: 15px;
+  }
+
+  .description {
+    margin-bottom: 25px;
+  }
+  .price {
+    margin-bottom: 40px;
   }
   .card-content {
     margin-top: 15px;
@@ -174,6 +183,6 @@ body {
 
 @media (min-width: 1200px) {
   .card {
-    width: 42%;
+    width: 45%;
   }
 }
